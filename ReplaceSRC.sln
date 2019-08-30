@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceSRC", "ReplaceSRC\ReplaceSRC.csproj", "{2BF099E5-CA11-48F7-B6D8-C81FCB25D2BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BF099E5-CA11-48F7-B6D8-C81FCB25D2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF099E5-CA11-48F7-B6D8-C81FCB25D2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF099E5-CA11-48F7-B6D8-C81FCB25D2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF099E5-CA11-48F7-B6D8-C81FCB25D2BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {547AA506-DCB8-43AE-8E54-76C4E039188D}
+	EndGlobalSection
+EndGlobal
